@@ -1,0 +1,12 @@
+Perintah github
+
+git init
+git status
+git add .
+git status
+git commit -m "initial commit"
+git config --global user.email "hargiantofebrisena@gmail.om"
+git config --global user.name "febrisena"
+git commit -m "intial"
+git status
+git log
